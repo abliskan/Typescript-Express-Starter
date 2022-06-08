@@ -1,2 +1,34 @@
 # Typescript-Express-Starter
-Boilerplate and starter project template for back-end application using Typescript | Express | Jest and Cloud Function Firebase.
+Express framework and TypeScript starter repository.
+
+## Installation
+
+```bash
+$ npm install
+```
+
+## Running the app
+
+```bash
+# development
+$ npm run serve
+
+# watch mode
+$ npm run start:dev
+
+# production mode
+$ npm run start:prod
+```
+
+## Test
+
+```bash
+# unit tests
+$ npm run test
+
+# e2e tests
+$ npm run test:e2e
+
+# test coverage
+$ npm run test:cov
+```
